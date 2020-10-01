@@ -1,4 +1,4 @@
-# Obl1Opgave5
+# Opgave 5 TCP-server
 https://docs.google.com/document/d/e/2PACX-1vScjTyYryIHsiK5d_HCOLf6Q6CSgj2J76fUOpVkPKsuYTRQ50OgM9JBGnZtbpQhpooEyp_jZde7i_vg/pub
 
 Du skal lave en TCP-server som en Console Application. Applikationen skal være en concurrent server, der kan håndtere flere klienter og som kører på port 4646.
